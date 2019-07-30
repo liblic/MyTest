@@ -1,0 +1,1 @@
+Gurus say in C++ incrementing with ++I is faster than with I++. Is it true? How could...?

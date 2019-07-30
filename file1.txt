@@ -1,2 +1,4 @@
+Změny!
+
 aafile1
 Edituji jako branch2
