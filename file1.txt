@@ -1,4 +1,4 @@
-Změna master!
+Změna master a branch file, join!
 
 aafile1
 Edituji jako branch2
